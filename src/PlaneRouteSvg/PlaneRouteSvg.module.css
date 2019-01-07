@@ -1,0 +1,12 @@
+.line {
+    stroke: #ccd;
+    stroke-width: 0.5;
+}
+
+.text {
+    font-size: 3px;
+    fill: #ccd;
+    text-anchor: middle;
+}
+
+

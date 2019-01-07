@@ -1,0 +1,35 @@
+.cover {
+    background: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.notification {
+    width: 400px;
+    position: absolute;
+    left: calc(50% - 200px);
+    top: calc(50% - 100px);
+    background: #000;
+    border: 1px solid  #334645;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.title * {
+    margin-top: 0;
+}
+
+.message {
+
+}
+
+.button {
+    display: block;
+}

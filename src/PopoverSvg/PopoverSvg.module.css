@@ -1,0 +1,13 @@
+
+.item {
+    stroke: #334645;
+    background: #000;
+}
+
+.text {
+    font-size: 3px;
+    fill: #ccd;
+    text-anchor: start;
+}
+
+
